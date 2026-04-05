@@ -19,7 +19,8 @@ It helps students stay focused, manage tasks, and improve productivity using the
 ---
 
 ## 📸 Preview
-![App Screenshot](screenshot.png)
+![App Screenshot](<img width="1920" height="1020" alt="Screenshot 2026-04-05 111558" src="https://github.com/user-attachments/assets/fc484aaf-0263-4b51-a4b4-360f55567132" />
+)
 
 ---
 
