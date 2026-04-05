@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #0f172a;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Center box */
+.container {
+  width: 400px;
+  padding: 30px;
+  text-align: center;
+}
+
+/* Title */
+h1 {
+  margin-bottom: 10px;
+}
+
+/* Timer */
+#timer {
+  font-size: 70px;
+  margin: 20px 0;
+}
+
+/* Buttons */
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 8px;
+  background: #22c55e;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Input */
+input {
+  padding: 10px;
+  width: 60%;
+  border-radius: 8px;
+  border: none;
+  margin-top: 10px;
+}
+
+/* Task list */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  text-align: left;
+}
+
+/* Completed */
+.completed {
+  text-decoration: line-through;
+  opacity: 0.6;
+}

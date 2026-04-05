@@ -1,0 +1,23 @@
+{
+  "name": "focusflow",
+  "version": "1.0.0",
+  "description": "Productivity Desktop App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^41.1.1",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.focusflow.app",
+    "productName": "FocusFlow",
+    "win": {
+      "target": "nsis"
+    }
+  }
+}
